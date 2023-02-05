@@ -1,4 +1,4 @@
-# Multi-Master-Cluster-in-Kubernetes
+# Multi-Master-Cluster-in-Kubernetes 1.25
 
 ## Pre-requisite
 For this demo, we will use 2 master and 2 worker node to create a multi master kubernetes cluster using kubeadm installation tool. Below are the pre-requisite requirements for the installation:
